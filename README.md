@@ -1,7 +1,7 @@
 # Sensortest
 Python Class Library for Raspberry Pi
 
-Supported device list: MPU-6050, MPU-9250, HMC5883L, BMP280, HC-SR04
+Supported device list: MPU-6050, MPU-9250, HMC5883L, BMP280, BME280, HC-SR04
 
 Requirements:
 Hardware: Raspberry Pi
